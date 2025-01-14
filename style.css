@@ -30,7 +30,7 @@ body {
   0%,
   100% {
     background-position: 20% 0%;
-    background-size: 3400px;
+    background-size: 1400px;
   }
   50% {
     background-position: 100% 0%;
@@ -56,8 +56,8 @@ body {
 
 .swiper-slide img {
   object-fit: cover;
-  width: 100%;
-  height: 100%;
+  width: 10%;
+  height: 10%;
   border-radius: inherit;
   -webkit-box-reflect: below -5px linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.4));
   pointer-events: none;
